@@ -1,8 +1,10 @@
-
+# Hi, I'm Saiful Islam 👋  👨‍💻
 ![git_cover](https://user-images.githubusercontent.com/25750962/138808412-7490cb46-2c62-4f18-a2bb-7c23330bd517.png)
 
-### Hi there 👋
 
+### Find me elsewhere 🌎
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshkumarkhatri/)](https://www.linkedin.com/in/iamonlysaiful) 
 <!--
 **iamonlysaiful/iamonlysaiful** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
