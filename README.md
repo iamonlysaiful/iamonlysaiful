@@ -1,3 +1,6 @@
+
+![git_cover](https://user-images.githubusercontent.com/25750962/138808412-7490cb46-2c62-4f18-a2bb-7c23330bd517.png)
+
 ### Hi there 👋
 
 <!--
