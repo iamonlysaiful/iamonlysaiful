@@ -1,9 +1,15 @@
 # Hi, I'm Saiful 👋  👨‍💻. Welcome to my profile.
 ![git_cover](https://user-images.githubusercontent.com/25750962/138808412-7490cb46-2c62-4f18-a2bb-7c23330bd517.png)
 
-I'm 5 years experienced, specializing in C#, .NET Core, .NET, Angular, AngularJS, JavaScript and Relational Databases like MSSQL, PostgreSQL, MySQL & Oracle, DevOps, and Cloud Platforms (Azure, AWS). Have working experience on Agile team. Currently working as a Senior Software Engineer at S3 Innovate Pte. Ltd. (Singapore) remotely. Building multiple projects of IoT based Applications using .NET Core, Angular & different cutting edge IoT technologies hosted on Azure.
+An experienced Software Engineer and accomplished Leader, Currently building Sustainable and Smart City solutions as a Technical Lead Engineer for Surbana Jurong Group. Passionate for crafting robust solutions and driving technological advancement. With almost 8 years of hands-on experience, I'm continuously proving myself as a visionary, specializing in scalability, performance optimization, and emerging technologies.
 
-In most of my projects, I‘m working on several complex architectures for critical systems using multiple latest technologies, tools and platforms like Docker, Apache Kafka, Azure, Cloud Events, WSL2, Grafana, Prometheus, EdgeX Foundry etc. I've also been a Supervisor for some projects in the past 4+ years, helping Junior and teammates to build better software and guided to better in their careers.
+Delved into Multifaceted Development, I've contributed to different tech industries including the Internet of Things (IoT), GreenTech & Sustainable Technology, Business Intelligence & Analytics, HealthTech & Digital Health, and more, crafting software solutions that drive tangible results.
+
+Embracing the forefront of innovation, I've delved into cutting-edge technologies. Though consider myself technology flexible, I mostly worked with C#, .NET, Angular, and different RDBMS & NoSQL. I have a proven track record of handling DevOps responsibilities on Cloud Platforms such as Azure and AWS and have managed Agile teams. Throughout my career, I have both designed & worked on multiple complex architectures for critical systems using various cutting-edge technologies such as Kubernetes, Docker, Mqtt, and etc.
+
+As a superb business domain translator and decision-maker, engineered software solutions that have generated millions $ in sales and impacted the daily lives of millions, reflecting my ability to deliver tangible business value.
+
+As a developer advocate, I'm dedicated to nurturing talent, fostering a collaborative environment, and empowering teams to achieve their full potential.
 
 ### Find me elsewhere 🌎
 
